@@ -1,0 +1,15 @@
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/MyApp.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/MyApp_qmltyperegistration.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/all_qmltyperegistrations.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/MyApp_other_files.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/MyApp_qmllint.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/MyApp_qmllint_json.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/MyApp_qmllint_module.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/all_qmllint.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/all_qmllint_json.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/all_qmllint_module.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/MyApp_tooling.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/edit_cache.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/rebuild_cache.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/MyApp_autogen_timestamp_deps.dir
+/home/keno/lab/qt/QML-Learn/build/CMakeFiles/MyApp_autogen.dir

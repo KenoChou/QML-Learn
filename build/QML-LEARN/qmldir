@@ -1,0 +1,4 @@
+module QML-LEARN
+typeinfo MyApp.qmltypes
+prefer :/QML-LEARN/
+

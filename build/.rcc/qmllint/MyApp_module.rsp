@@ -1,0 +1,10 @@
+-I
+/home/keno/lab/qt/QML-Learn/build
+-I
+/home/keno/Qt/6.7.0/gcc_64/./qml
+--resource
+/home/keno/lab/qt/QML-Learn/build/.rcc/qmake_QML-LEARN.qrc
+--resource
+/home/keno/lab/qt/QML-Learn/build/.rcc/MyApp_raw_qml_0.qrc
+--module
+QML-LEARN

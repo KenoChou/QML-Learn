@@ -1,0 +1,5 @@
+--resource
+/home/keno/lab/qt/QML-Learn/build/.rcc/qmake_QML-LEARN.qrc
+--resource
+/home/keno/lab/qt/QML-Learn/build/.rcc/MyApp_raw_qml_0.qrc
+/QML-LEARN/main.qml

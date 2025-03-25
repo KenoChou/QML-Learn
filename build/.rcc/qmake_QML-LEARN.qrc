@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/QML-LEARN">
+    <file alias="qmldir">/home/keno/lab/qt/QML-Learn/build/QML-LEARN/qmldir</file>
+  </qresource>
+</RCC>
+
